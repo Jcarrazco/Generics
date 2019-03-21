@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\bin\Debug\UsoGenerics.exe.config
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\bin\Debug\UsoGenerics.exe
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\bin\Debug\UsoGenerics.pdb
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\obj\Debug\UsoGenerics.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\obj\Debug\UsoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\obj\Debug\UsoGenerics.exe
+C:\Users\carrascoja\source\repos\UsoGenerics\UsoGenerics\obj\Debug\UsoGenerics.pdb
